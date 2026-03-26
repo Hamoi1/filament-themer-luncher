@@ -7,9 +7,7 @@
 rector-cache
 .php-cs-fixer.cache
 .idea
-.vscode
 .DS_Store
-.env
 .env.testing
 /node_modules
 /public/build
@@ -19,3 +17,4 @@ rector-cache
 /.phpstan_tmp
 /build
 /themes
+config.bat
